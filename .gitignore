@@ -1,0 +1,13 @@
+# Secrets - never commit
+.env
+.env.local
+.env.*.local
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Dependencies
+node_modules/
+package-lock.json
